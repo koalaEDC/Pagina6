@@ -1,0 +1,53 @@
+header 
+{
+    background-color: crimson ;
+}
+
+main
+{
+    background-color: gold;
+    width: 100%;
+    height: 900px;
+}
+
+footer
+{
+    background-color: gold;
+}
+
+.contenedor2
+{
+    width: 22.2222%;
+    float: left;
+    height: 90px;
+    background-color: khaki;
+}
+
+.contenedor3
+{
+    width: 11.1111%;
+    float: left;
+    height: 90px;
+    background-color: lightskyblue;
+}
+
+.contenedor4
+{
+    width: 40.6666%;
+    float: left;
+    height: 90px;
+    background-color: palegreen}
+
+    .contenedor5
+{
+    width: 33.3%;
+    float: left;
+    height: 90px;
+    background-color: mistyrose}
+
+    .contenedor6
+{
+    width: 33.3%;
+    float: left;
+    height: 500px;
+    background-color: mistyrose}
